@@ -1,0 +1,605 @@
+{
+  "term_info": {
+    "report_number": "212",
+    "student_number": "40431071",
+    "term": "ترم اول 1404-1405 (بهمن)"
+  },
+  "courses": [
+    {
+      "code": "1011303", "name": "آمار و احتمالات مهندسی", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "گرجی فردوس", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "13:30", "end": "15:00"}, {"day": "سه شنبه", "start": "13:30", "end": "15:00"}],
+         "examTime": {"date": "1405/10/26", "start": "10:00", "end": "12:00"}},
+        {"group": "02", "professor": "مشکانی فراهانی زهراسادات", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "16:30"}, {"day": "سه شنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/26", "start": "10:00", "end": "12:00"}},
+        {"group": "03", "professor": "قطاری امیرحسین", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "13:30", "end": "15:00"}, {"day": "سه شنبه", "start": "13:30", "end": "15:00"}],
+         "examTime": {"date": "1405/10/26", "start": "10:00", "end": "12:00"}},
+        {"group": "04", "professor": "اکبری فرشته", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "16:30"}, {"day": "سه شنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/26", "start": "10:00", "end": "12:00"}},
+        {"group": "05", "professor": "ری بد آرمان", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "16:30", "end": "18:00"}, {"day": "سه شنبه", "start": "16:30", "end": "18:00"}],
+         "examTime": {"date": "1405/10/26", "start": "10:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "1022391", "name": "آز فیزیک عمومی 2", "credits": 1,
+      "groups": [
+        {"group": "01", "professor": "رضائی نیا امیر", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "02", "professor": "رضائی نیا امیر", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "03", "professor": "رضائی نیا امیر", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "04", "professor": "رضائی نیا امیر", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "05", "professor": "رضائی نیا امیر", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "06", "professor": "رضائی نیا امیر", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "07", "professor": "نیک دهقان مهسا", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "08", "professor": "نیک دهقان مهسا", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "09", "professor": "نیک دهقان مهسا", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "10", "professor": "شیرین زاده وراغولی سجاد", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "11", "professor": "شیرین زاده وراغولی سجاد", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "12", "professor": "شیرین زاده وراغولی سجاد", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "13", "professor": "شیرین زاده وراغولی سجاد", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "14", "professor": "شیرین زاده وراغولی سجاد", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "15", "professor": "حشمدار سمیه", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "16", "professor": "حشمدار سمیه", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "17", "professor": "حشمدار سمیه", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "18", "professor": "جلیلی وش نگین", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "19", "professor": "جلیلی وش نگین", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "20", "professor": "جلیلی وش نگین", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "21", "professor": "جلیلی وش نگین", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "22", "professor": "جلیلی وش نگین", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "23", "professor": "جلیلی وش نگین", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "24", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "25", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "26", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "27", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "28", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "29", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "30", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "31", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "32", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "33", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "34", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "35", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "36", "professor": "صالحیان متی کلائی مهرداد", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "37", "professor": "عابدینی امیرعلی", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "38", "professor": "عابدینی امیرعلی", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "39", "professor": "عابدینی امیرعلی", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "40", "professor": "عابدینی امیرعلی", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "41", "professor": "عابدینی امیرعلی", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "42", "professor": "رادمنش سیدمهران", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "43", "professor": "رادمنش سیدمهران", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "44", "professor": "رادمنش سیدمهران", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "15:00", "end": "17:00"}], "examTime": null}
+      ]
+    },
+    {
+      "code": "1051022", "name": "تاریخ امامت", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "قاضی خانی حسین", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/20", "start": "15:00", "end": "17:00"}},
+        {"group": "02", "professor": "قاضی خانی حسین", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/20", "start": "15:00", "end": "17:00"}},
+        {"group": "03", "professor": "قاضی خانی حسین", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/20", "start": "15:00", "end": "17:00"}},
+        {"group": "04", "professor": "قاضی خانی حسین", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/20", "start": "15:00", "end": "17:00"}}
+      ]
+    },
+    {
+      "code": "1051032", "name": "تاریخ فرهنگ و تمدن اسلامی", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "حلاجی مفرد سعید", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/20", "start": "13:00", "end": "15:00"}},
+        {"group": "02", "professor": "حلاجی مفرد سعید", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/20", "start": "13:00", "end": "15:00"}}
+      ]
+    },
+    {
+      "code": "1051112", "name": "انسان در اسلام", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "مدنی انسیه", "gender": "زن", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/19", "start": "15:00", "end": "17:00"}},
+        {"group": "02", "professor": "مدنی انسیه", "gender": "زن", "classTimes": [{"day": "شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/19", "start": "15:00", "end": "17:00"}},
+        {"group": "03", "professor": "مدنی انسیه", "gender": "زن", "classTimes": [{"day": "یک شنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/19", "start": "15:00", "end": "17:00"}},
+        {"group": "04", "professor": "بهرامی علیرضا", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/19", "start": "15:00", "end": "17:00"}},
+        {"group": "05", "professor": "کرمی ورنامخواستی حسین", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/19", "start": "15:00", "end": "17:00"}},
+        {"group": "06", "professor": "ابراهیمی احمد", "gender": "مرد", "classTimes": [{"day": "سه شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/19", "start": "15:00", "end": "17:00"}}
+      ]
+    },
+    {
+      "code": "1051122", "name": "اندیشه اسلامی 1", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "گل پرورروزبهانی مهدی", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/19", "start": "13:00", "end": "15:00"}},
+        {"group": "02", "professor": "گل پرورروزبهانی مهدی", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/19", "start": "13:00", "end": "15:00"}},
+        {"group": "03", "professor": "کرمی ورنامخواستی حسین", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/19", "start": "13:00", "end": "15:00"}},
+        {"group": "04", "professor": "حمداللهی حسین", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/19", "start": "13:00", "end": "15:00"}},
+        {"group": "05", "professor": "حمداللهی حسین", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/19", "start": "13:00", "end": "15:00"}},
+        {"group": "06", "professor": "صمیمی محمدوحید", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/19", "start": "13:00", "end": "15:00"}},
+        {"group": "07", "professor": "صمیمی محمدوحید", "gender": "مرد", "classTimes": [{"day": "یک شنبه", "start": "17:00", "end": "19:00"}], "examTime": {"date": "1405/10/19", "start": "13:00", "end": "15:00"}},
+        {"group": "08", "professor": "صمیمی محمدوحید", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/19", "start": "13:00", "end": "15:00"}},
+        {"group": "09", "professor": "صمیمی محمدوحید", "gender": "مرد", "classTimes": [{"day": "سه شنبه", "start": "17:00", "end": "19:00"}], "examTime": {"date": "1405/10/19", "start": "13:00", "end": "15:00"}}
+      ]
+    },
+    {
+      "code": "1051132", "name": "اندیشه اسلامی 2", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "گل پرورروزبهانی مهدی", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/28", "start": "15:00", "end": "17:00"}},
+        {"group": "02", "professor": "گل پرورروزبهانی مهدی", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/28", "start": "15:00", "end": "17:00"}},
+        {"group": "03", "professor": "بهرامی علیرضا", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/28", "start": "15:00", "end": "17:00"}},
+        {"group": "04", "professor": "بهرامی علیرضا", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/28", "start": "15:00", "end": "17:00"}},
+        {"group": "05", "professor": "شاه حسینی محمد", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/28", "start": "15:00", "end": "17:00"}},
+        {"group": "06", "professor": "شاه حسینی محمد", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/28", "start": "15:00", "end": "17:00"}}
+      ]
+    },
+    {
+      "code": "1051312", "name": "فلسفه اخلاق", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "مدنی انسیه", "gender": "زن", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/23", "start": "13:00", "end": "15:00"}},
+        {"group": "02", "professor": "مدنی انسیه", "gender": "زن", "classTimes": [{"day": "دوشنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/23", "start": "13:00", "end": "15:00"}},
+        {"group": "03", "professor": "مدنی انسیه", "gender": "زن", "classTimes": [{"day": "دوشنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/23", "start": "13:00", "end": "15:00"}}
+      ]
+    },
+    {
+      "code": "1051322", "name": "عرفان عملی در اسلام", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "خداوردیان حسن", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/23", "start": "15:00", "end": "17:00"}},
+        {"group": "02", "professor": "خداوردیان حسن", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/23", "start": "15:00", "end": "17:00"}},
+        {"group": "03", "professor": "خداوردیان حسن", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/23", "start": "15:00", "end": "17:00"}},
+        {"group": "04", "professor": "خداوردیان حسن", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/23", "start": "15:00", "end": "17:00"}}
+      ]
+    },
+    {
+      "code": "1051332", "name": "اخلاق اسلامی", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "میرخلیلی سیدجواد", "gender": "مرد", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/23", "start": "15:00", "end": "17:00"}},
+        {"group": "02", "professor": "میرخلیلی سیدجواد", "gender": "مرد", "classTimes": [{"day": "دوشنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/23", "start": "15:00", "end": "17:00"}},
+        {"group": "03", "professor": "رضائی شهلا", "gender": "زن", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/23", "start": "15:00", "end": "17:00"}},
+        {"group": "04", "professor": "رضائی شهلا", "gender": "زن", "classTimes": [{"day": "شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/23", "start": "15:00", "end": "17:00"}}
+      ]
+    },
+    {
+      "code": "1051412", "name": "انقلاب اسلامی ایران", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "رحیمی کلاریجانی احمدرضا", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}},
+        {"group": "02", "professor": "رحیمی کلاریجانی احمدرضا", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}},
+        {"group": "03", "professor": "رحیمی کلاریجانی احمدرضا", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}},
+        {"group": "04", "professor": "رحیمی کلاریجانی احمدرضا", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}},
+        {"group": "05", "professor": "میرخلیلی سیدجواد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}},
+        {"group": "06", "professor": "میرخلیلی سیدجواد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}},
+        {"group": "07", "professor": "میرخلیلی سیدجواد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}},
+        {"group": "08", "professor": "موسی نژاد گل چالی محمد...", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}},
+        {"group": "09", "professor": "موسی نژاد گل چالی محمد...", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}},
+        {"group": "10", "professor": "موسی نژاد گل چالی محمد...", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}},
+        {"group": "11", "professor": "موسی نژاد گل چالی محمد...", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/21", "start": "13:00", "end": "15:00"}}
+      ]
+    },
+    {
+      "code": "1051532", "name": "تفسیر موضوعی قرآن", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "داوری دولت آبادی محمد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/22", "start": "13:00", "end": "15:00"}},
+        {"group": "02", "professor": "داوری دولت آبادی محمد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/22", "start": "13:00", "end": "15:00"}},
+        {"group": "03", "professor": "داوری دولت آبادی محمد", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/22", "start": "13:00", "end": "15:00"}},
+        {"group": "04", "professor": "داوری دولت آبادی محمد", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/22", "start": "13:00", "end": "15:00"}},
+        {"group": "05", "professor": "داوری دولت آبادی محمد", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/22", "start": "13:00", "end": "15:00"}},
+        {"group": "06", "professor": "ابدال محمودآبادی بتول", "gender": "زن", "classTimes": [{"day": "یک شنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/22", "start": "13:00", "end": "15:00"}},
+        {"group": "07", "professor": "ابدال محمودآبادی بتول", "gender": "زن", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/22", "start": "13:00", "end": "15:00"}},
+        {"group": "08", "professor": "رجبی روح اله", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/22", "start": "13:00", "end": "15:00"}}
+      ]
+    },
+    {
+      "code": "1051632", "name": "دانش خانواده و جمعیت", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "رضائی شهلا", "gender": "زن", "classTimes": [{"day": "شنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/29", "start": "15:00", "end": "17:00"}},
+        {"group": "02", "professor": "رضائی شهلا", "gender": "زن", "classTimes": [{"day": "شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/29", "start": "15:00", "end": "17:00"}},
+        {"group": "03", "professor": "رضائی شهلا", "gender": "زن", "classTimes": [{"day": "دوشنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/29", "start": "15:00", "end": "17:00"}},
+        {"group": "04", "professor": "رضائی شهلا", "gender": "زن", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/29", "start": "15:00", "end": "17:00"}},
+        {"group": "05", "professor": "عبدالهی عباس", "gender": "مرد", "classTimes": [{"day": "یک شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/29", "start": "15:00", "end": "17:00"}},
+        {"group": "06", "professor": "عبدالهی عباس", "gender": "مرد", "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/29", "start": "15:00", "end": "17:00"}},
+        {"group": "07", "professor": "عبدالهی عباس", "gender": "مرد", "classTimes": [{"day": "دوشنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/29", "start": "15:00", "end": "17:00"}},
+        {"group": "08", "professor": "عبدالهی عباس", "gender": "مرد", "classTimes": [{"day": "دوشنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/29", "start": "15:00", "end": "17:00"}},
+        {"group": "09", "professor": "اکبری سکینه", "gender": "زن", "classTimes": [{"day": "سه شنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/29", "start": "15:00", "end": "17:00"}}
+      ]
+    },
+    {
+      "code": "1061032", "name": "زبان (2) مهندسی", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "عزیزی مسعود", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "02", "professor": "عزیزی مسعود", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "03", "professor": "عزیزی مسعود", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "04", "professor": "کرابی محسن", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "05", "professor": "کرابی محسن", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "06", "professor": "کرابی محسن", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "07", "professor": "کرابی محسن", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "08", "professor": "دهقان فرزانه", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "09", "professor": "دهقان فرزانه", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "10", "professor": "دهقان فرزانه", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "11", "professor": "نامی فاطمه", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "12", "professor": "نامی فاطمه", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "17:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "13", "professor": "نامی فاطمه", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}},
+        {"group": "14", "professor": "نامی فاطمه", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "10:00", "end": "12:00"}], "examTime": {"date": "1405/10/30", "start": "15:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "2013701", "name": "کارگاه عمومی", "credits": 1,
+      "groups": [
+        {"group": "01", "professor": "حبیب الهی محمد جواد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "07:00", "end": "10:00"}], "examTime": null},
+        {"group": "02", "professor": "حسین زاده بهرام", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "13:00"}], "examTime": null},
+        {"group": "03", "professor": "حبیب الهی محمد جواد", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "07:00", "end": "10:00"}], "examTime": null},
+        {"group": "04", "professor": "حبیب الهی محمد جواد", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "10:00", "end": "13:00"}], "examTime": null}
+      ]
+    },
+    {
+      "code": "3102103", "name": "جبر خطی کاربردی", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "حقیرچهرقانی مصطفی", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "16:30", "end": "18:00"}, {"day": "سه شنبه", "start": "16:30", "end": "18:00"}],
+         "examTime": {"date": "1405/10/27", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3102223", "name": "سیگنال ها و سیستم ها", "credits": 3,
+      "groups": [
+        {"group": "02", "professor": "حاجی صادقی کهدو...", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "13:30", "end": "15:00"}, {"day": "دوشنبه", "start": "13:30", "end": "15:00"}],
+         "examTime": {"date": "1405/10/20", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3102313", "name": "اصول طراحی پایگاه داده ها", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "شهریاری کاهکشی حمیدرضا", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "09:15", "end": "10:45"}, {"day": "دوشنبه", "start": "09:15", "end": "10:45"}],
+         "examTime": {"date": "1405/10/26", "start": "13:00", "end": "16:00"}},
+        {"group": "02", "professor": "پناهی فاطمه", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "16:30"}, {"day": "سه شنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/26", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3102513", "name": "مبانی و کاربردهای هوش مصنوعی", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "جوانمردی مهدی", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "16:30"}, {"day": "سه شنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/19", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3103013", "name": "ریزپردازنده و زبان اسمبلی", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "قربه حامد", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "13:30", "end": "15:00"}, {"day": "سه شنبه", "start": "13:30", "end": "15:00"}],
+         "examTime": {"date": "1405/10/21", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3103021", "name": "آزمایشگاه ریزپردازنده و زبان اسمبلی", "credits": 1,
+      "groups": [
+        {"group": "01", "professor": "صاحب الزمانی مرتضی", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "02", "professor": "قادری عمودیزج محمدرضا", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "03", "professor": "سلیمان فلاح مهران", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "04", "professor": "قادری عمودیزج محمدرضا", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "05", "professor": "قادری عمودیزج محمدرضا", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "10:00", "end": "12:00"}], "examTime": null}
+      ]
+    },
+    {
+      "code": "3103073", "name": "مهندسی نرم افزار 1", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "کلباسی امیر", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "10:45", "end": "12:15"}, {"day": "سه شنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/29", "start": "09:00", "end": "12:00"}},
+        {"group": "02", "professor": "ذاکری مرتضی", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "16:30"}, {"day": "سه شنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/29", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3103091", "name": "کارآموزی", "credits": 1,
+      "groups": [
+        {"group": "01", "professor": "جوادی سیداحمد", "gender": "مختلط", "classTimes": [{"day": "پنج شنبه", "start": "07:45", "end": "09:15"}], "examTime": null}
+      ]
+    },
+    {
+      "code": "3103313", "name": "مهندسی نرم افزار 2", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "گوهری فائزه سادات", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "10:45", "end": "12:15"}, {"day": "سه شنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/22", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3103523", "name": "اصول علم ربات", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "جوانمردی مهدی", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "13:30", "end": "15:00"}, {"day": "سه شنبه", "start": "13:30", "end": "15:00"}],
+         "examTime": {"date": "1405/10/30", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3103623", "name": "مبانی امنیت اطلاعات", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "موسوی سیده عاطفه", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "10:45", "end": "12:15"}, {"day": "دوشنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/23", "start": "09:00", "end": "12:00"}},
+        {"group": "02", "professor": "الوانی سیدپرهام", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "09:15", "end": "10:45"}, {"day": "سه شنبه", "start": "09:15", "end": "10:45"}],
+         "examTime": {"date": "1405/10/23", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3106043", "name": "مدارهای منطقی", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "صاحب الزمانی مرتضی", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "09:15", "end": "10:45"}, {"day": "سه شنبه", "start": "09:15", "end": "10:45"}],
+         "examTime": {"date": "1405/10/21", "start": "09:00", "end": "12:00"}},
+        {"group": "02", "professor": "صدیقی مهدی", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "10:45", "end": "12:15"}, {"day": "سه شنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/21", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3106051", "name": "آزمایشگاه مدارهای منطقی", "credits": 1,
+      "groups": [
+        {"group": "01", "professor": "جوادی سیداحمد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "02", "professor": "سلیمان فلاح مهران", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "03", "professor": "سلیمان فلاح مهران", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "04", "professor": "سلیمان فلاح مهران", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "05", "professor": "سلیمان فلاح مهران", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "06", "professor": "سلیمان فلاح مهران", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "07", "professor": "سلیمان فلاح مهران", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "08", "professor": "سلیمان فلاح مهران", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "15:00", "end": "17:00"}], "examTime": null}
+      ]
+    },
+    {
+      "code": "3106072", "name": "زبان تخصصی کامپیوتر", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "دهقان فرزانه", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "08:00", "end": "10:00"}], "examTime": {"date": "1405/10/30", "start": "10:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3106083", "name": "مدارهای الکتریکی و الکترونیکی", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "خرسندی سیاوش", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "15:00", "end": "16:30"}, {"day": "دوشنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/29", "start": "13:00", "end": "16:00"}},
+        {"group": "02", "professor": "فرقدان عظیم", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "16:30", "end": "18:00"}, {"day": "دوشنبه", "start": "16:30", "end": "18:00"}],
+         "examTime": {"date": "1405/10/29", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3106091", "name": "آزمایشگاه مدارهای الکتریکی و الکترونیکی", "credits": 1,
+      "groups": [
+        {"group": "01", "professor": "قربه حامد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "02", "professor": "قربه حامد", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "03", "professor": "قربه حامد", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "04", "professor": "فرقدان عظیم", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "05", "professor": "قربه حامد", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "06", "professor": "قربه حامد", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "07", "professor": "قربه حامد", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "15:00", "end": "17:00"}], "examTime": null}
+      ]
+    },
+    {
+      "code": "3106103", "name": "داده ساختارها و الگوریتم ها", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "عامری ریحانه", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "09:15", "end": "10:45"}, {"day": "دوشنبه", "start": "09:15", "end": "10:45"}],
+         "examTime": {"date": "1405/10/19", "start": "09:00", "end": "12:00"}},
+        {"group": "02", "professor": "عامری ریحانه", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "10:45", "end": "12:15"}, {"day": "دوشنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/19", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3106113", "name": "معماری کامپیوتر", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "زرندی حمیدرضا", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "10:45", "end": "12:15"}, {"day": "سه شنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/21", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3106121", "name": "آزمایشگاه معماری کامپیوتر", "credits": 1,
+      "groups": [
+        {"group": "01", "professor": "صدیقی مهدی", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "02", "professor": "صدیقی مهدی", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "10:00", "end": "12:00"}], "examTime": null}
+      ]
+    },
+    {
+      "code": "3106133", "name": "طراحی سیستم های دیجیتال", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "حاجی صادقی کهدو...", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "10:45", "end": "12:15"}, {"day": "دوشنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/20", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3106143", "name": "نظریه زبان ها و ماشین ها", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "محققی مرتضی", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "16:30", "end": "18:00"}, {"day": "دوشنبه", "start": "16:30", "end": "18:00"}],
+         "examTime": {"date": "1405/10/22", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3106183", "name": "سیستم های عامل", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "طاهری جوان نستوه", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "16:30"}, {"day": "سه شنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/28", "start": "13:00", "end": "16:00"}},
+        {"group": "02", "professor": "طاهری جوان نستوه", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "16:30", "end": "18:00"}, {"day": "سه شنبه", "start": "16:30", "end": "18:00"}],
+         "examTime": {"date": "1405/10/28", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3106191", "name": "آزمایشگاه سیستم عامل", "credits": 1,
+      "groups": [
+        {"group": "01", "professor": "صدیقی مهدی", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "02", "professor": "صدیقی مهدی", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "03", "professor": "جوادی سیداحمد", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "04", "professor": "صدیقی مهدی", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "05", "professor": "صدیقی مهدی", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "06", "professor": "مقصود زینب", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "07", "professor": "صدیقی مهدی", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "08:00", "end": "10:00"}], "examTime": null}
+      ]
+    },
+    {
+      "code": "3106223", "name": "شبکه های کامپیوتری", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "صبایی مسعود", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "09:15", "end": "10:45"}, {"day": "دوشنبه", "start": "09:15", "end": "10:45"}],
+         "examTime": {"date": "1405/10/23", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3106231", "name": "آزمایشگاه شبکه های کامپیوتری", "credits": 1,
+      "groups": [
+        {"group": "01", "professor": "سلیمان فلاح مهران", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "02", "professor": "جوادی سیداحمد", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "10:00", "end": "12:00"}], "examTime": null},
+        {"group": "03", "professor": "صدیقی مهدی", "gender": "مختلط", "classTimes": [{"day": "دوشنبه", "start": "15:00", "end": "17:00"}], "examTime": null},
+        {"group": "04", "professor": "صدیقی مهدی", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "13:00", "end": "15:00"}], "examTime": null},
+        {"group": "05", "professor": "جوادی سیداحمد", "gender": "مختلط", "classTimes": [{"day": "چهارشنبه", "start": "10:00", "end": "12:00"}], "examTime": null}
+      ]
+    },
+    {
+      "code": "3106502", "name": "مهارت های نرم شغلی", "credits": 2,
+      "groups": [
+        {"group": "01", "professor": "روشن ضمیر امیرحسین", "gender": "مختلط", "classTimes": [{"day": "شنبه", "start": "13:00", "end": "15:00"}], "examTime": {"date": "1405/10/23", "start": "13:00", "end": "15:00"}}
+      ]
+    },
+    {
+      "code": "3107013", "name": "طراحی الگوریتم ها", "credits": 3,
+      "groups": [
+        {"group": "02", "professor": "باقری علیرضا", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "15:00", "end": "16:30"}, {"day": "دوشنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/26", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3107043", "name": "طراحی زبان های برنامه سازی", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "سلیمان فلاح مهران", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "10:45", "end": "12:15"}, {"day": "سه شنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/22", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3107053", "name": "بازیابی اطلاعات", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "نیک آبادی احمد", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "10:45", "end": "12:15"}, {"day": "سه شنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/22", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3107073", "name": "داده کاوی", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "امیر مزلقانی مریم", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "09:15", "end": "10:45"}, {"day": "دوشنبه", "start": "09:15", "end": "10:45"}],
+         "examTime": {"date": "1405/10/27", "start": "09:00", "end": "12:00"}},
+        {"group": "02", "professor": "ناظرفرد احسان", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "10:45", "end": "12:15"}, {"day": "دوشنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/27", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3107113", "name": "شبیه سازی کامپیوتری", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "محققی مرتضی", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "15:00", "end": "16:30"}, {"day": "دوشنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/21", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3108013", "name": "گرافیک کامپیوتری", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "پناهی فاطمه", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "13:30", "end": "15:00"}, {"day": "سه شنبه", "start": "13:30", "end": "15:00"}],
+         "examTime": {"date": "1405/10/30", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3108043", "name": "آزمون نرم افزار", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "گوهری فائزه سادات", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "09:15", "end": "10:45"}, {"day": "سه شنبه", "start": "09:15", "end": "10:45"}],
+         "examTime": {"date": "1405/10/29", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3108053", "name": "مبانی هوش محاسباتی", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "روشن فکر بهنام", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "09:15", "end": "10:45"}, {"day": "سه شنبه", "start": "09:15", "end": "10:45"}],
+         "examTime": {"date": "1405/10/19", "start": "13:00", "end": "15:00"}}
+      ]
+    },
+    {
+      "code": "3108073", "name": "انتقال داده ها", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "صادقیان بابک", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "15:00", "end": "16:30"}, {"day": "دوشنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/20", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3108083", "name": "برنامه سازی وب", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "الوانی سیدپرهام", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "07:45", "end": "09:15"}, {"day": "سه شنبه", "start": "07:45", "end": "09:15"}],
+         "examTime": {"date": "1405/10/28", "start": "08:00", "end": "10:00"}}
+      ]
+    },
+    {
+      "code": "3108093", "name": "برنامه سازی موبایل", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "طارمی راد معصومه", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "13:30", "end": "15:00"}, {"day": "دوشنبه", "start": "13:30", "end": "15:00"}],
+         "examTime": {"date": "1405/10/27", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3108103", "name": "مبانی رایانش ابری", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "جوادی سیداحمد", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "15:00", "end": "16:30"}, {"day": "دوشنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/26", "start": "09:00", "end": "12:00"}}
+      ]
+    },
+    {
+      "code": "3108113", "name": "مبانی اینترنت اشیاء", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "خرسندی سیاوش", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "16:30", "end": "18:00"}, {"day": "دوشنبه", "start": "16:30", "end": "18:00"}],
+         "examTime": {"date": "1405/10/22", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3108123", "name": "تعامل انسان و کامپیوتر", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "شیرعلی شهرضا سجاد", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "10:45", "end": "12:15"}, {"day": "دوشنبه", "start": "10:45", "end": "12:15"}],
+         "examTime": {"date": "1405/10/30", "start": "13:00", "end": "16:00"}},
+        {"group": "02", "professor": "شیرعلی شهرضا سجاد", "gender": "مختلط",
+         "classTimes": [{"day": "شنبه", "start": "09:15", "end": "10:45"}, {"day": "دوشنبه", "start": "09:15", "end": "10:45"}],
+         "examTime": {"date": "1405/10/30", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3108243", "name": "مقدمه ای بر بیوانفورماتیک", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "مصطفوی ترقی سید مصطفی", "gender": "مختلط",
+         "classTimes": [{"day": "یک شنبه", "start": "15:00", "end": "16:30"}, {"day": "سه شنبه", "start": "15:00", "end": "16:30"}],
+         "examTime": {"date": "1405/10/19", "start": "13:00", "end": "16:00"}}
+      ]
+    },
+    {
+      "code": "3108261", "name": "آزمایشگاه مهندسی نرم افزار", "credits": 1,
+      "groups": [
+        {"group": "01", "professor": "عبادپور محسن", "gender": "مختلط", "classTimes": [{"day": "یک شنبه", "start": "08:00", "end": "10:00"}], "examTime": null},
+        {"group": "02", "professor": "خوشبخت امیرحسین", "gender": "مختلط", "classTimes": [{"day": "سه شنبه", "start": "08:00", "end": "10:00"}], "examTime": null}
+      ]
+    },
+    {
+      "code": "3147510", "name": "پروژه مهندسی کامپیوتر", "credits": 3,
+      "groups": [
+        {"group": "01", "professor": "اساتید گروه آموزشی", "gender": "مختلط", "classTimes": [], "examTime": null}
+      ]
+    }
+  ]
+}
